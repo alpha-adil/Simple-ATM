@@ -13,9 +13,3 @@ Features:
 	- *Withdraw Money*: Let users withdraw money from their account (if they have enough balance).
 	- **Check Balance*: Display the user's current balance.
 	- *Exit*: End the program when the user chooses.
-	
-Concepts you'll practice:
-	- *Control structures*: Loops and conditionals.
-	- *Functions*: For each banking operation (deposit, withdraw, etc.).
-	- *Arrays or Structures*: To store user account data (name, account number, balance).
-	- *File Handling (optional)*: Save account information to a file for persistence.
